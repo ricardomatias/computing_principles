@@ -4,7 +4,7 @@ Write some code and test, then repeat till the algorithm is finished.
 
 ## Testing
 
-Testing should be an integral part of programming and not a task to the at the end.
+Testing should be an integral part of programming and not a task to be done the at the end.
 
 ## Plotting
 
